@@ -1,0 +1,12 @@
+{
+  "name": "lisandropodesta-type-tool",
+  "description": "Flexible type checking",
+  "version": "0.0.1",
+  "keywords": [
+    "type",
+    "typeof",
+    "tool"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
